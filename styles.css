@@ -1,0 +1,31 @@
+body {
+	width: 325px;
+}
+
+.fact {
+	font-style: italic;
+}
+
+span {
+	font-weight: bold;
+}
+
+ul {
+	list-style-type: none;
+}
+
+img {
+	width: 300px;
+	align-items: center;
+}
+
+div {
+	border: 1px solid grey;
+	border-radius: 4px;
+	padding: 10px;
+	background-color: lightgreen;
+}
+
+.content {
+	width:  280px;
+}
