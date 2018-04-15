@@ -2,15 +2,15 @@ body {
 	width: 325px;
 }
 
-.fact {
+.card-content-italicized {
 	font-style: italic;
 }
 
-span {
+.list-label {
 	font-weight: bold;
 }
 
-ul {
+.content-list-items {
 	list-style-type: none;
 }
 
@@ -19,13 +19,13 @@ img {
 	align-items: center;
 }
 
-div {
+.card {
 	border: 1px solid grey;
 	border-radius: 4px;
 	padding: 10px;
 	background-color: lightgreen;
 }
 
-.content {
+.card-content {
 	width:  280px;
 }
